@@ -29,12 +29,12 @@ Um aplicativo simples de simulação de **transferências entre contas bancária
         - **Titular:** Nome do titular da conta.
         - **Saldo:** O saldo disponível na conta.
 
-*Métodos:*
+**Métodos:**
 
-- **Depositar(decimal valor):** Adiciona um valor ao saldo da conta.
-- **Sacar(decimal valor):** Retira um valor do saldo, se houver saldo suficiente.
-- **ConsultarSaldo():** Retorna o saldo atual da conta.
-- **Transferir(ContaBancaria contaDestino, decimal valor):** Transfere um valor para outra conta.
+    - **Depositar(decimal valor):** Adiciona um valor ao saldo da conta.
+    - **Sacar(decimal valor):** Retira um valor do saldo, se houver saldo suficiente.
+    - **ConsultarSaldo():** Retorna o saldo atual da conta.
+    - **Transferir(ContaBancaria contaDestino, decimal valor):** Transfere um valor para outra conta.
 
 -  **Form1**
 
