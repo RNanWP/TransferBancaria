@@ -23,13 +23,13 @@ Um aplicativo simples de simulação de **transferências entre contas bancária
 ### Classes Principais
 - **ContaBancaria**
 
-- **Propriedades:**
+    - **Propriedades:**
 
-- **NumeroConta:** O número da conta bancária.
-- **Titular:** Nome do titular da conta.
-- **Saldo:** O saldo disponível na conta.
+        - **NumeroConta:** O número da conta bancária.
+        - **Titular:** Nome do titular da conta.
+        - **Saldo:** O saldo disponível na conta.
 
-**Métodos:**
+*Métodos:*
 
 - **Depositar(decimal valor):** Adiciona um valor ao saldo da conta.
 - **Sacar(decimal valor):** Retira um valor do saldo, se houver saldo suficiente.
