@@ -43,16 +43,16 @@ Um aplicativo simples de simulação de **transferências entre contas bancária
 
 ## 🚀 Como Executar o Projeto
 
-1. Clone o repositório:
+1. **Clone o repositório:**
 
 ```bash
     git clone https://github.com/RNanWP/TransferBancaria.git
 ```
 
-2. Abra no Visual Studio:
+2. **Abra no Visual Studio:**
     - Inicie o Visual Studio e carregue o projeto.
 
-3. Compile e Execute:
+3. **Compile e Execute:**
     - Compile o projeto e execute o aplicativo para começar a usar.
 
 ## Estrutura do Projeto
