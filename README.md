@@ -46,14 +46,14 @@ Um aplicativo simples de simulação de **transferências entre contas bancária
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/RNanWP/TransferBancaria.git
+    git clone https://github.com/RNanWP/TransferBancaria.git
 ```
 
 2. Abra no Visual Studio:
-- Inicie o Visual Studio e carregue o projeto.
+    - Inicie o Visual Studio e carregue o projeto.
 
 3. Compile e Execute:
-- Compile o projeto e execute o aplicativo para começar a usar.
+    - Compile o projeto e execute o aplicativo para começar a usar.
 
 ## Estrutura do Projeto
 
